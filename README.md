@@ -1,3 +1,2 @@
 # pizza-webpage
-
-Simple Demo for GitHub Project
+uploaded and made my own
